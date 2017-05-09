@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Te Ajuda</string>
+
+    <!-- toolbar -->
+    <string name="activity_routine">Routines</string>
+    <string name="activity_task">My Tasks</string>
+    <string name="activity_new_task">Create Task</string>
+</resources>
